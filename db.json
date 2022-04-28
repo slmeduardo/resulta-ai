@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$SJ4BoXIYdxYgZsKixMRtFu0X9ZVbjYPohB2kCR9xEFJ34NbpBzWhC",
+      "id": 1
+    },
+    {
+      "email": "carasabe@mail.com",
+      "password": "$2a$10$wQLcSEZPvJnTxKbvj9kIR.TYGgd8EGHaMzL5vmAkVMqMbYE0mZNzm",
+      "id": 2
+    },
+    {
+      "email": "fdsa@gmail.com",
+      "password": "$2a$10$x1OBSFMBopWcrXcOsOsIYeMuDUG9pkdwqApPkCqlaS5MW7naxNusq",
+      "id": 3
+    },
+    {
+      "email": "zecapagode@gmail.com",
+      "password": "$2a$10$ZGShf5cofuEfo0Yynb4diOU2hkyfw9Xd4Bn2o1/MtCSfIfP4lX7ru",
+      "id": 4
+    },
+    {
+      "email": "edzinsc@gmail.com",
+      "password": "$2a$10$3QGK9fLy9uV1jb6JU4.MwOBxBTXH9ksLInqxXpis1ArzMnQX1F0ly",
+      "id": 5
+    },
+    {
+      "email": "fdasda@gmail.com",
+      "password": "$2a$10$DMscGYU453O/EpeeLGyXxefOwVCtBTQFTzWlaRjXTsyZBYHrwzI1u",
+      "id": 6
+    }
+  ]
+}
